@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33f75b47-7541-4b82-adad-f2805d18aadc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1e6RxdpQC2hJyHDSdGfMCc3vj8A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="geetingstarted" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="geetingstarted" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="geetingstarted [file:/C:/Users/ashis/Downloads/assignment%204%20part%203/geetingstarted/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="geetingstarted-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="1604807885" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="87871327" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Analysis-of-Geospatial-Operations-on-Distributed-Data-Platform-master (2)/Analysis-of-Geospatial-Operations-on-Distributed-Data-Platform-master/PHASE 2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Assignmentscala/CSE511-Project-Milestone 4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../CSE511-Project-Milestone 4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../assignment 5 group/CSE512-Project-Hotspot-Analysis-Template-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../assignment 5 temp/CSE512-Project-Hotspot-Analysis-Template-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../assignment6/CSE512-Project-Phase2-Template-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../assignment62/CSE512-Project-Phase2-Template-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../assignmentx/CSE511-Project-Milestone 4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../uWCzhLbdEeiIWQ7qQVoxgg_b9894990b6dd11e8ae3eb3de497ec78b_CSE511-Project-Hotspot-Analysis-Template-master/CSE512-Project-Hotspot-Analysis-Template-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33f75b47-7541-4b82-adad-f2805d18aadc" name="Default Changelist" comment="" />
+      <created>1593640303951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593640303951</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1593659148105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593659148105" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1593659148105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593659148105" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1593659148104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593659148104" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1593659148105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593659148105" />
+  </component>
+</project>
